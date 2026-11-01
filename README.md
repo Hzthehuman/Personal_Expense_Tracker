@@ -90,3 +90,7 @@ Example:
 - Add a graphical user interface
 - Add automated unit tests
 - Use unique transaction IDs and backup handling
+
+Author: [Hein Zin Htut]  
+Project: Expense Tracker  
+Language: Python 3
